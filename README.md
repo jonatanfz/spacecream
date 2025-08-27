@@ -1,12 +1,5 @@
 <h1 align="center">🍦 Space Cream</h1>
 
-<p align="center">
-  <img alt="Preview Desktop" src=".github/preview-desktop.png" width="70%">
-</p>
-<p align="center">
-  <img alt="Preview Mobile" src=".github/preview.png" width="25%">
-</p>
-
 ---
 
 ## 📖 Sobre o projeto
