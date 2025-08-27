@@ -41,7 +41,7 @@ Esse projeto foi construído com:
 ---
 
 ## 🔗 Acesse online
-👉 [Clique aqui para visualizar o projeto](https://jonatanfiuza.github.io/spacecream)
+👉 [Clique aqui para visualizar o projeto](https://jonatanfz.github.io/spacecream/)
 
 ---
 
